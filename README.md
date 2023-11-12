@@ -43,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapratama828&show_icons=true&theme=tokyonight&locale=en" alt="adityapratama828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapratama828&theme=highcontrast" alt="adityapratama828" /></p>
+
+![alt text](https://ibb.co/hsvY4vy?raw=true)
