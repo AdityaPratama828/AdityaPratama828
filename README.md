@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Soon](Soon)
 
-- ⚡ Fun fact **I want to be BATMAN**
+- ⚡ Fun fact **I want to be SUPERBATMAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
